@@ -3,11 +3,11 @@ public class CreateObj implements Cloneable, Serializable {
 	
 	// 5 CORE WAYS TO CREATE OBJECTS :
 	
-		// 1. USING new KEYWORD 								--> CONSTRUCTOR CALL INVOLVED
-		// 2. USING Class class's newInstance() METHOD 			--> CONSTRUCTOR CALL INVOLVED
+		// 1. USING new KEYWORD      				--> CONSTRUCTOR CALL INVOLVED
+		// 2. USING Class class's newInstance() METHOD 		--> CONSTRUCTOR CALL INVOLVED
 		// 3. USING Constructor class's newInstance() METHOD 	--> CONSTRUCTOR CALL INVOLVED		
-		// 4. USING clone() METHOD 								--> CONSTRUCTOR CALL NOT INVOLVED
-		// 5. USING DESERIALIZATION 							--> CONSTRUCTOR CALL NOT INVOLVED
+		// 4. USING clone() METHOD 				--> CONSTRUCTOR CALL NOT INVOLVED
+		// 5. USING DESERIALIZATION 				--> CONSTRUCTOR CALL NOT INVOLVED
 		
 		
 	
